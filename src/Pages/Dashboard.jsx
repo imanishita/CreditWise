@@ -1,4 +1,4 @@
-import Graph from "../components/Graph";
+import Graph from "../Components/Graph";
 
 const Dashboard = () => {
   return (
